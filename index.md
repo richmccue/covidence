@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/covidence.png" alt="image description" style="float:right;width:180px;"> 
+<img src="images/covidence.png" alt="image description" style="float:right;width:80px;"> 
 
 # Covidence, and Introduction
 
