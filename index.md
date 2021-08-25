@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/covidence.png" alt="image description" style="float:right;width:80px;"> 
+<img src="images/covidence.png" alt="image description" style="float:right;width:80px;height:80px;"> > 
 
 # Covidence, and Introduction
 
@@ -13,9 +13,9 @@ nav_order: 1
 
 ## Why Covidence? 
 
-[Covidence](https://www.covidence.org/){:target="_blank"} is a web-based platform that streamlines the process of conducting comprehensive literature reviews, including systematic reviews, scoping reviews, meta-syntheses, and meta-narratives.
+[Covidence: Better systematic review management](https://www.covidence.org/){:target="_blank"} 
 
-Covidence is ideal for team collaboration and allows multiple reviewers to work on a project simultaneously; however, it can also be used individually. Covidence bundles citation screening, full-text review, risk of bias assessment, and the exportation of data and references together onto one platform saving researchers valuable time and improving the quality of evidence synthesis. 
+Covidence is a web-based platform that streamlines the process of conducting comprehensive literature reviews, including systematic reviews, scoping reviews, meta-syntheses, and meta-narratives.Covidence is ideal for team collaboration and allows multiple reviewers to work on a project simultaneously; however, it can also be used individually. Covidence bundles citation screening, full-text review, risk of bias assessment, and the exportation of data and references together onto one platform saving researchers valuable time and improving the quality of evidence synthesis. 
 
 ## Learning objectives
 
@@ -32,3 +32,4 @@ At the end of this workshop, you will be able to:
 5. Recognize how Covidence improves collaboration and evidence synthesis
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
+
