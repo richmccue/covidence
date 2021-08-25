@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Covidence, an Introduction
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://richmccue.github.io/dsc-template/
