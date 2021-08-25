@@ -13,17 +13,9 @@ nav_order: 1
 
 ## Why Covidence? 
 
-[Covidence](https://www.covidence.org/){:target="_blank"}:
+[Covidence](https://www.covidence.org/){:target="_blank"} is a web-based platform that streamlines the process of conducting comprehensive literature reviews, including systematic reviews, scoping reviews, meta-syntheses, and meta-narratives.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
-
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
+Covidence is ideal for team collaboration and allows multiple reviewers to work on a project simultaneously; however, it can also be used individually. Covidence bundles citation screening, full-text review, risk of bias assessment, and the exportation of data and references together onto one platform saving researchers valuable time and improving the quality of evidence synthesis. 
 
 ## Learning objectives
 
